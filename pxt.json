@@ -4,13 +4,16 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "neopixel": "github:lzty634158/pxt-neopixel"
     },
     "files": [
         "main.blocks",
         "main.ts",
         "README.md",
-        "custom.ts"
+        "custom.ts",
+        "_locales/zh-CN/README.md",
+        "lh-strings.json"
     ],
     "testFiles": [
         "test.ts"
